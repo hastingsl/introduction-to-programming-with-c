@@ -8,6 +8,6 @@ These programs are here to keep in a central place, provide reference material, 
 
 ### Linux
 Open the terminal and compile:
-<pre><code>gcc -o <executable name> <file name>.c</code></pre>
+<pre><code>gcc -o executable_name file_name.c</code></pre>
 Run the program:
-<pre><code>./<executable name></code></pre>
+<pre><code>./executable_name></code></pre>
